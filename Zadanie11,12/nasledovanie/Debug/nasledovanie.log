@@ -1,0 +1,3 @@
+﻿  nasledovanie.cpp
+C:\Users\matvey\source\repos\nasledovanie\nasledovanie\nasledovanie.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  nasledovanie.vcxproj -> C:\Users\matvey\source\repos\nasledovanie\Debug\nasledovanie.exe
