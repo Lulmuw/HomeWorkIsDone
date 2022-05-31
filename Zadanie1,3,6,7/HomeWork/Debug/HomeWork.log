@@ -1,0 +1,3 @@
+﻿  HomeWork.cpp
+C:\Users\matvey\source\repos\HomeWork\HomeWork\circle.h(22,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  HomeWork.vcxproj -> C:\Users\matvey\source\repos\HomeWork\Debug\HomeWork.exe
